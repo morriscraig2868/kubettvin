@@ -1,22 +1,26 @@
-Welcome to Lumache's documentation!
+Kubet - kubett.vin - Nền Tảng Cá Cược Đỉnh Cao Tại Việt Nam
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Kubet <https://kubett.vin/>`_t vin là một trong những nền tảng cá cược trực tuyến hàng đầu tại Việt Nam, nổi bật với một loạt các sản phẩm giải trí đa dạng như game bài, cược thể thao, casino trực tuyến, sổ số,.... Được thành lập với mục tiêu cung cấp trải nghiệm cá cược an toàn và chất lượng, Kubet nhanh chóng chiếm được lòng tin của người chơi nhờ vào dịch vụ chăm sóc khách hàng chuyên nghiệp, giao diện thân thiện và nhiều ưu đãi hấp dẫn. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Kubet cam kết bảo mật thông tin người dùng và minh bạch trong mọi giao dịch, đồng thời thường xuyên cập nhật các trò chơi mới nhất và các sự kiện thể thao để đáp ứng nhu cầu của cộng đồng người chơi. Với đội ngũ hỗ trợ tận tình và các chương trình khuyến mãi hấp dẫn, Kubet xứng đáng là lựa chọn hàng đầu cho những ai yêu thích sự đổi mới và trải nghiệm cá cược đỉnh cao.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 93d Đ. Phạm Đình Hổ, Phường 6, Quận 6, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0988852200. 
 
-.. toctree::
+Email: info@kubett.vin. 
 
-   usage
-   api
+Website: https://kubett.vin/
+
+#kubet #nhacaikubet #trangchukubet #dangkykubet #linkkubet
+
+Xem thêm:
+
+https://kubett.vin/ku-casino/
+
+https://kubett.vin/cskh-kubet/
+
+https://kubett.vin/soi-cau-kubet/
